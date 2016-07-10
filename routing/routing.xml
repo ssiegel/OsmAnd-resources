@@ -545,11 +545,12 @@
 			<select value="12" t="highway" v="path"/>
 			<select value="18" t="highway" v="living_street"/>
 			<select value="14" t="highway" v="pedestrian"/>
-			<select value="14" t="highway" v="footway"/>
 			<select value="8"  t="highway" v="byway"/>
 			<select value="13" t="highway" v="platform"/>
 			<select value="13" t="highway" v="services"/>
 			<select value="13" t="highway" v="bridleway"/>
+			<select value="14" t="bicycle" v="yes"/>
+			<select value="4"  t="highway" v="footway"/>
 			<select value="16"/>
 		</way>
 
@@ -618,6 +619,7 @@
 			<select value="0.5" t="highway" v="motorway_link"/>
 			<select value="0.5" t="highway" v="trunk"/>
 			<select value="0.5" t="highway" v="trunk_link"/>
+			<select value="0.5" t="highway" v="footway"/>
 
 			<select value="0.8" t="smoothness" v="intermediate"/>
 			<select value="0.7" t="smoothness" v="bad"/>
